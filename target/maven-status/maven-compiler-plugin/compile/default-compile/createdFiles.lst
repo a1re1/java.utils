@@ -1,1 +1,14 @@
-com\wb\game\engine\utils\immutables\WbsStyle.class
+com\wbs\java\utils\resource\loading\FileSystemLocation.class
+com\wbs\java\utils\position\Vector.class
+com\wbs\java\utils\resource\loading\ResourceLoader.class
+com\wbs\java\utils\config\Config.class
+com\wbs\java\utils\Time.class
+com\wbs\java\utils\position\PositionChange.class
+com\wbs\java\utils\position\Vector1D.class
+com\wbs\java\utils\config\ConfigReader.class
+com\wbs\java\utils\position\Vector2D.class
+com\wbs\java\utils\position\Vector3D.class
+com\wbs\java\utils\resource\loading\ResourceLocation.class
+com\wbs\java\utils\immutables\WbsStyle.class
+com\wbs\java\utils\Pair.class
+com\wbs\java\utils\resource\loading\ClasspathLocation.class

@@ -1,6 +1,6 @@
 package com.wbs.java.utils.position;
 
-import com.wb.game.engine.utils.Log;
+import com.wbs.simplog.Log;
 
 public class Vector2D extends Vector {
     private static final Log LOG = new Log(Vector2D.class);

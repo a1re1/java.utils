@@ -1,6 +1,6 @@
 package com.wbs.java.utils.position;
 
-import com.wb.game.engine.utils.Log;
+import com.wbs.simplog.Log;
 
 import java.util.Arrays;
 

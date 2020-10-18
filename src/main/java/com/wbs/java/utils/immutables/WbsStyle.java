@@ -1,4 +1,4 @@
-package com.wb.game.engine.utils.immutables;
+package com.wbs.java.utils.immutables;
 
 import org.immutables.value.Value;
 
