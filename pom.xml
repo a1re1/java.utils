@@ -8,7 +8,6 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.wbs</groupId>
   <artifactId>java-utils</artifactId>
   <version>1.0.1-SNAPSHOT</version>
   <name>java-utils</name>
